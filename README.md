@@ -140,7 +140,7 @@ Gross Margin Percentage = (gross income/total revenue)=(16.0265\336.5565) = 0.04
 
 ### Wallmart-Sales-Data-Analysis
 
-The primary dataset used for this analysis is the "WallmartSalesData.csv" file, containing detailed information about each sale made by the store.
+The primary dataset used for this analysis is the "WalmartSalesData.csv" file, containing detailed information about each sale made by the store.
 
 
 
