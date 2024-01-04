@@ -120,7 +120,31 @@ Total = VAT + COGS = 16.0265 + 320.53 = 336.5565
 
 Gross Margin Percentage = (gross income/total revenue)=(16.0265\336.5565) = 0.047619 approx ~ 4.7619%
 
-## Code
+## Conclusion
+
+- Wallmart store sales has increased the most in the month of January.
+- Women spent slightly more money than men
+- Member type customers buys more compared to normal.
+- Most common payment mode is cash by customers, followed by Ewallet.
+- Fashion accessories is the most selling product line.
+- Naypyitaw is the highest revenue city.
+- Fashion accessories is the most common product line for Females.
+- Health and beauty is the most common product line for males.
+- Food and beverages is the highest rated product line.
+- Home and lifestyle is the least rated product line.
+- Member customers brings more revenue compared to normal customers.
+- At afternoon customers give most ratings.
+- Monday has the best average ratings.
+
+## Data Sources
+
+### Wallmart-Sales-Data-Analysis
+
+The primary dataset used for this analysis is the "WallmartSalesData.csv" file, containing detailed information about each sale made by the store.
+
+
+
+
 
 
  
